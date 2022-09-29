@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.MuiCardHeader-avatar{
+  width: 50%;
+  padding: 0% 1%;
+}
+.css-t1nvwz {
+  background-color: #f44336;
+  padding: .5% 5% !important;
+  font-size: 13px !important;
+  border-radius: 5px;
+  color: aliceblue;
+}
+.css-1cbmzb4-MuiPaper-root-MuiCard-root {
+height: 300px !important ;
+}
+.css-185gdzj-MuiCardHeader-root {
+
+padding: 0px !important;
+}
+
+.MuiPaper-root:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.css-15de0iv-MuiButtonBase-root-MuiButton-root,.css-1t7n5i-MuiButtonBase-root-MuiButton-root,.css-978sx-MuiButtonBase-root-MuiButton-root  
+{
+padding:1px 5px !important;
+margin: 0px 5px !important;
+}
+.css-1t6e9jv-MuiCardActions-root{
+  display: flex;
+  justify-content: space-between;
+}
+.css-46bh2p-MuiCardContent-root {
+padding: 10px !important;
+}
+.css-ivnu1y-MuiPaper-root-MuiAppBar-root{
+  background-color:rgb(99 85 194) !important; 
+}
+.css-1m9128y
+{
+  margin-top: 0px !important;
+}
+.css-46bh2p-MuiCardContent-root{
+  padding: 2px !important;
+}
+.css-1f8sh1y{
+  height: 200px !important;
+}
+.css-1u2w381-MuiModal-root-MuiDrawer-root {
+z-index: 1202 !important;
+}
